@@ -6,7 +6,7 @@ menu --> |
          | submenu --> |
          |             | dishes
 ```
-Реализациия операций CRUD на Fastapi тестами на Pytest. Взаимодействие с базой данных (Postgres) через SQLAlchemy.
+Реализациия операций CRUD на Fastapi c тестами на Pytest. Взаимодействие с базой данных (Postgres) через SQLAlchemy.
 Упакованно в docker.
 
 ## Старт FastApi + PostgreSQL
