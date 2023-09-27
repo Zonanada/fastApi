@@ -1,0 +1,3 @@
+from test_menu import TestClassMenu
+from test_submenu import TestClassSubmenu
+from test_dishes import TestClassDishes
